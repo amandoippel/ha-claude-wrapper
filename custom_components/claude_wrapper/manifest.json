@@ -1,0 +1,11 @@
+{
+  "domain": "claude_wrapper",
+  "name": "Claude Wrapper",
+  "config_flow": true,
+  "documentation": "https://github.com/amandoippel/ha-claude-wrapper",
+  "issue_tracker": "https://github.com/amandoippel/ha-claude-wrapper/issues",
+  "codeowners": ["@amandoippel"],
+  "requirements": [],
+  "iot_class": "local_push",
+  "version": "1.0.0"
+}

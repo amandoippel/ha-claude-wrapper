@@ -1,0 +1,13 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Claude Wrapper",
+        "description": "URL van de claude-auto-voice-wrapper-service (Node.js, draait op Unraid).",
+        "data": {
+          "url": "URL"
+        }
+      }
+    }
+  }
+}
